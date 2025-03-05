@@ -30,3 +30,10 @@ To use these assets in your Telegram Mini App:
 ## License
 
 [Include appropriate license information]
+
+Add Telegram Mini App splash screen
+
+- 512x512 pixel SVG of BTCBULL logo
+- Optimized for fast loading
+- Compliant with Telegram Mini App requirements
+- Used as loading screen when app initializes
